@@ -1,2 +1,4 @@
-# Tortoise-Sample
-آموزش کار با Tortoise Git
+## Tortoise-Sample
+پروژه آموزش تحوه کار با رابط کاربری گرافیکی Tortoise Git
+
+شایان شاکری
